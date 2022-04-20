@@ -1,0 +1,10 @@
+tr {
+  border: 2px solid #6c7275;
+}
+td, th {
+  border: 2px solid #6c7275;
+  width: 200px;
+}
+th {
+  font-size: 20px;
+}
