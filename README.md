@@ -1,6 +1,8 @@
 # Tax ID generator
 Italian Tax code generator in Flask using ajax to complete the "Comune" section based on "Province" selection (data stored in PostgreSQL databse)
 
+<img width="711" height="362" alt="demo" src="https://github.com/user-attachments/assets/0f444f6a-8e8c-4d6e-9c70-ab848931a342" />
+
 ## Files
 - `static`: directory for static files (JS and styling)
 - `templates`: directory used to store `.html` page
